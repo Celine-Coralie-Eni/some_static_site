@@ -8,6 +8,12 @@ Ensure you have the following installed:
 - [Docker](https://docs.docker.com/get-docker/)
 - [Rust](https://www.rust-lang.org/tools/install) (for local development)
 
+To clone this repository run:
+
+```
+git clone https://github.com/Dericko681/some_static_site
+```
+
 ## Building the Docker Image
 
 Run the following command to build the Docker image:
