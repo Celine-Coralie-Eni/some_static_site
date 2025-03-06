@@ -10,6 +10,12 @@ Ensure you have the following installed:
 
 ## Building the Docker Image
 
+To clone this repository run the command:
+
+```
+git clone https://github.com/Dericko681/some_static_site
+```
+
 Run the following command to build the Docker image:
 
 ```sh
